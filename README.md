@@ -1,4 +1,4 @@
 NXP
 ===
 
-NXP ARM based microcontrollers.
+NXP ARM Cortex-M based microcontrollers.
